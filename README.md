@@ -1,4 +1,4 @@
-# imagefactory-co-kr
+# Imagefactory
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,130 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-imagefactory-co-kr is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://imagefactory.co.kr/
+Imagefactory is an AI marketing agent platform that automates ad campaign planning, creative generation, multi‑platform publishing, and performance tracking across Meta, Google, Naver, Kakao and TikTok. It offers a web‑based dashboard and plugins for Figma and Photoshop, targeting advertisers, agencies and solo marketers.
+
+**Areas:** Company
+
+## Imagefactory on APIs.io
+
+Everything profiled for Imagefactory is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/imagefactory-co-kr/](https://apis.io/providers/imagefactory-co-kr/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [Imagefactory External API](https://apis.io/apis/imagefactory-co-kr/imagefactory-co-kr-external-api/) — The External API from Imagefactory — 1 operation(s) for external.
+- [Imagefactory Generate API](https://apis.io/apis/imagefactory-co-kr/imagefactory-co-kr-generate-api/) — The Generate API from Imagefactory — 2 operation(s) for generate.
+- [Imagefactory Reports API](https://apis.io/apis/imagefactory-co-kr/imagefactory-co-kr-reports-api/) — The Reports API from Imagefactory — 2 operation(s) for reports.
+- [Imagefactory Resize API](https://apis.io/apis/imagefactory-co-kr/imagefactory-co-kr-resize-api/) — The Resize API from Imagefactory — 1 operation(s) for resize.
+- [Imagefactory Tasks API](https://apis.io/apis/imagefactory-co-kr/imagefactory-co-kr-tasks-api/) — The Tasks API from Imagefactory — 1 operation(s) for tasks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Imagefactory Agentic Access](https://apis.io/agentic-access/imagefactory-co-kr/imagefactory-co-kr-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [TransactionsResponse](https://apis.io/schemas/imagefactory-co-kr/imagefactory-co-kr-transactions-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Imagefactory Co Kr Context](https://apis.io/jsonld/imagefactory-co-kr/imagefactory-co-kr-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Imagefactory API Rules](https://apis.io/rules/imagefactory-co-kr/imagefactory-co-kr-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Imagefactory Authentication](https://apis.io/security/imagefactory-co-kr/imagefactory-co-kr-authentication/)
+- [Imagefactory Domain Security](https://apis.io/security/imagefactory-co-kr/imagefactory-co-kr-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Imagefactory Plans Pricing](https://apis.io/plans/imagefactory-co-kr/imagefactory-co-kr-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://imagefactory.co.kr/)
+- [Documentation](https://www.imagefactory.co.kr/guides)
+- [Getting started](https://www.imagefactory.co.kr/blog/cafe24-conversion-tracking-setup-map)
+- [API reference](https://www.imagefactory.co.kr/developers)
+- [Pricing](https://www.imagefactory.co.kr/pricing)
+- [Sign up](https://www.imagefactory.co.kr/signup)
+- [Support](https://www.imagefactory.co.kr/help)
+- [Blog](https://blog.imagefactory.co.kr/)
+- [Terms of service](https://www.imagefactory.co.kr/terms)
+- [Privacy policy](https://www.imagefactory.co.kr/privacy)
+
+## API Evangelist rating
+
+**Kin Score 55.2** — strong · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 57.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 57.4** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/imagefactory-co-kr/](https://apis.io/providers/imagefactory-co-kr/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Imagefactory: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/imagefactory-co-kr/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
